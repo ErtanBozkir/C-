@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\bin\Debug\asdfghjk.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\bin\Debug\asdfghjk.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\bin\Debug\asdfghjk.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.Form2.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\asdfghjk\asdfghjk\obj\Debug\asdfghjk.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\asdfghjk\asdfghjk\bin\Debug\Banka Hesabı.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\asdfghjk\asdfghjk\bin\Debug\BankaHesabı.exe.config
